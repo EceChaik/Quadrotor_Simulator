@@ -1,3 +1,5 @@
+#Quadrotor Simulator
+
 main.m needs to run before running visualize.m
 
 Run main.m to simulate a Quadrotor helicopter.
