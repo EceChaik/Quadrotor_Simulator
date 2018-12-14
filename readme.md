@@ -1,4 +1,4 @@
-#Quadrotor Simulator
+# Quadrotor Simulator
 
 main.m needs to run before running visualize.m
 
